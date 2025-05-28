@@ -8,7 +8,7 @@
 1. **SCI_rut5_base_sum_gazeta**  
    - Исходная модель: [IlyaGusev/rut5_base_sum_gazeta](https://huggingface.co/IlyaGusev/rut5_base_sum_gazeta)
    - Архитектура: T5 (Text-to-Text Transfer Transformer)
-   - [Доступна на Hugging Face(https://huggingface.co/plnchk/SCI_rut5_base_sum_gazeta)]
+   - [Доступна на Hugging Face](https://huggingface.co/plnchk/SCI_rut5_base_sum_gazeta)
 
 2. **SCI_rugpt3medium_sum_gazeta`**  
    - Исходная модель: [IlyaGusev/rugpt3medium_sum_gazeta](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta)
