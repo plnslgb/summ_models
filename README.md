@@ -13,6 +13,7 @@
 2. **SCI_rugpt3medium_sum_gazeta`**  
    - Исходная модель: [IlyaGusev/rugpt3medium_sum_gazeta](https://huggingface.co/IlyaGusev/rugpt3medium_sum_gazeta)
    - Архитектура: GPT-3 (Generative Pre-trained Transformer)
+   - [Доступна на Hugging Face](https://huggingface.co/plnchk/SCI_rugpt3medium_sum_gazeta)
 
 3. **SCI_ru-mbart-large-summ`**  
    - Исходная модель: [d0rj/ru-mbart-large-summ](https://huggingface.co/d0rj/ru-mbart-large-summ)
