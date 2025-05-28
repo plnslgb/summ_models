@@ -18,6 +18,7 @@
 3. **SCI_ru-mbart-large-summ`**  
    - Исходная модель: [d0rj/ru-mbart-large-summ](https://huggingface.co/d0rj/ru-mbart-large-summ)
    - Архитектура: mBART (Multilingual Bidirectional Auto-Regressive Transformer)
+   - [Доступна на Hugging Face](https://huggingface.co/plnchk/SCI_ru-mbart-large-summ)
 
 ## Данные для дообучения
 - **Корпус ТКиКЛ** Корпус текстов по компьютерной и корпусной лингвистике ([https://github.com/CompLinguists-22M28/Topic-Modeling-Project-22M28](url))
